@@ -1,5 +1,4 @@
 def calculate_w(t, h):
-    """Calculate w using the given formula."""
     return (0.5 * t**2 - 0.2 * h - 15) / 0.9
 
 def main():
