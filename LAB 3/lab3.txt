@@ -1,0 +1,8 @@
+1 Create new brnach under main brnach
+2 The same file if main branch are visible in the sub branch where we can make changes and push again back to main (Parallel and activity)
+3 Select file under subbranch where changes need to be done 
+4 Add changes and click on commit 
+5 Click on pull request 
+6 Compare base main 
+7 Pull request 
+8 merge 
